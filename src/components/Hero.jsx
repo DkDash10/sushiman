@@ -3,7 +3,6 @@ import sushi1 from "../assets/sushi-1.png"
 import play from "../assets/play-circle.svg"
 import user from "../assets/user.png"
 import { motion, useInView } from 'framer-motion'
-import { slideUp, opacity } from '../effects/TextReveal'
 
 const Hero = () => {
     const container = useRef(null);
