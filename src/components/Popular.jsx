@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import sushi6 from "../assets/sushi-6.png"
 import sushi7 from "../assets/sushi-7.png"
 import sushi8 from "../assets/sushi-8.png"

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import search from "../assets/search.svg"
 import menu from "../assets/menu.svg"
 import { HiOutlineMenuAlt4 } from "react-icons/hi"

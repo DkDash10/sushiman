@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Subscription = () => {
     return (
         <section className='bg-primary p-8 xs:p-12 lg:p-24 text-center' id="services">

@@ -1,4 +1,3 @@
-import React from 'react'
 import sushi4 from "../assets/sushi-4.png"
 import sushi5 from "../assets/sushi-5.png"
 import check from "../assets/check.svg"
